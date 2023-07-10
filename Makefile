@@ -1,6 +1,6 @@
 
-DOCKER_ID ?= headforwards
-IMAGE = example-perl-psgi
+DOCKER_ID ?= alderpinto
+IMAGE = znuny
 VERSION ?= latest
 
 .PHONY: build
